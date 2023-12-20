@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Rcafe</string>
+    <string name="appVersion">V 1.0.0</string>
+    <string name="azoza_2020">Presented By Azoza 2023</string>
+    <string name="searchHint">Search</string>
+    <string name="bottom_nav_home_title">Home</string>
+    <string name="bottom_nav_list_title">List</string>
+    <string name="bottom_nav_cart_title">Cart</string>
+    <string name="bottom_nav_category_title">Category</string>
+    <string name="bottom_nav_profile_title">Profile</string>
+    <string name="side_nav_home">Home</string>
+    <string name="side_nav_profile">Profile</string>
+    <string name="side_nav_setting">Setting</string>
+    <string name="side_nav_msg">Message</string>
+    <string name="side_nav_wishlist">Wishlist</string>
+    <string name="side_nav_order_list">Orderlist</string>
+    <string name="side_nav_login">Login</string>
+    <string name="side_nav_logout">Logout</string>
+    <string name="nav_open">Open Drawer Nav</string>
+    <string name="nav_close">CLose Drawer Nav</string>
+
+    <!--    <string name="sign_up_text_0">SignUp</string>-->
+    <!--    <string name="sign_in_text_0">SignIn</string>-->
+    <string name="textview">SignUp</string>
+    <string name="nameFieldHint">Name</string>
+    <string name="mobileFieldHint">Email</string>
+    <string name="passwordFieldHint">Password</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="sign_in_text">Sign In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signInText">Already Have an Account?</string>
+    <string name="signupText">Don\'t Have An Account?</string>
+
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+    <string name="description1">Indulge in a culinary journey with our exquisite food products that cater to diverse palates. From savory bites to sweet treats, our menu is a celebration of flavors that will tantalize your taste buds</string>
+    <string name="description2">Experience the convenience of lightning-fast delivery. We guarantee your favorite meals at your doorstep in record time, ensuring that you enjoy your food hot and fresh, just the way you love it.</string>
+    <string name="description3">At Service Excellence Diner, it\'s not just about the food; it\'s about the experience. Our commitment to unparalleled service ensures that every visit is memorable. From friendly staff to prompt attention, we take pride in making your dining experience truly exceptional.</string>
+    <string name="_8226"><![CDATA[&#8226]]></string>
+    <string name="impressions">Hot</string>
+    <string name="product_list_product_name">Product Name</string>
+    <string name="price_content">Price : Rs</string>
+    <string name="price_content2">Price</string>
+    <string name="see_all_text">See All</string>
+    <string name="fried_chicken_pot_biriyani_xmas_offer">Fried Chicken Pot Biriyani Xmas Offer</string>
+    <string name="taste_a_bit_you_will_ask_the_big">Taste A Bit, You Will Ask the Big</string>
+    <string name="dum_biriyani">"Dum Biriyani "</string>
+    <string name="product_name">Product Name</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="rs">Rs</string>
+    <string name="product_details">Product Details</string>
+    <string name="add_address">Add Address</string>
+    <string name="continue_to_payment">Continue to payment</string>
+    <string name="your_address">Your Address</string>
+
+
+</resources>

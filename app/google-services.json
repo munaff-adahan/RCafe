@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319967637991",
+    "project_id": "rcafe-88e2c",
+    "storage_bucket": "rcafe-88e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319967637991:android:18bb7d4d79b6c0b341cd42",
+        "android_client_info": {
+          "package_name": "com.azoza.rcafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbzOjFnvCjig8suf_YpCE8xoksy-vVzrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
